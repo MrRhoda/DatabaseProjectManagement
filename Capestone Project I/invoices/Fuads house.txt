@@ -1,0 +1,6 @@
+Customer: Fuad
+Tel number: 0217894561
+Email: fuad@email.com
+Completion Date: 2022-12-21
+
+Total amount to be paid: R1000000.0
